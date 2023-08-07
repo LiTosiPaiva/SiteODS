@@ -1,0 +1,90 @@
+body {
+    text-align: center;
+    color:  #1c496a;
+}
+
+.header_container{
+    background-color:  #1e4765;
+    color: white;
+    align-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.header_nav a{
+    padding: .7rem;
+    border: solid white;
+    color: white;
+    gap: 3rem;
+    text-decoration: none;
+}
+
+.wrapperContainer-green{
+    background-color: #4c9836;
+    color: white;
+    padding: 1.5rem;
+    font-size: large;
+}
+
+.wrapperContainer-ligth{
+    padding: 1rem;
+    font-size: large;
+}
+
+.objetivos_container{
+    width: 100% !important;
+}
+
+.table{
+    width: 80% !important;
+    margin: auto;
+}
+
+.wrapperContainer-help{
+    background-color: #2495d1;
+    color: white;
+    padding: 1.5rem;
+    font-size: large;
+}
+
+.container escolhas{
+    width: 100% !important;
+}
+
+.plus{
+    width: 80% !important;
+    margin: auto;
+}
+
+.wrapperContainer-our{
+    padding: 1rem;
+    font-size: large;
+}
+
+.video{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.header_container ul{
+    display: flex;
+    gap: .10rem;
+    list-style-type: none;
+}
+
+.wrapperContainer-topic{
+    background-color: #f59a15;
+    color: white;
+    padding: 1.5rem;
+    font-size: large;
+}
+
+.wrapperContainer-end{
+    background-color:  #1e4765;
+    color: white;
+    align-content: center;
+    padding: 1rem;
+}
+
